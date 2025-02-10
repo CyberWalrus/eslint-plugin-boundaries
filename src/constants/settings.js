@@ -3,6 +3,7 @@ const { PLUGIN_NAME, PLUGIN_ENV_VARS_PREFIX } = require("./plugin");
 const {
   ELEMENT_TYPES,
   EXTERNAL,
+  SLICE,
   ENTRY_POINT,
   NO_IGNORED,
   NO_UNKNOWN,
